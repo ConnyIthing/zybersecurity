@@ -8,5 +8,5 @@ The workflow to have an good analyze for cybersecurity and even functionalsafety
 3. Define the requirements for the function and here will we later add the Cybersec REQs
 <img src="picture/function_interface.jpg" alt="Functional architecture" width="800" height="200">
 4. Define the systemmodel in the CS area
-<img src="picture/cs_area.jpg" alt="Cybersecurity area" width="400" height="200">
+<img src="picture/cs_area.jpg" alt="Cybersecurity area" width="400" height="400">
 
