@@ -9,4 +9,8 @@ The workflow to have an good analyze for cybersecurity and even functionalsafety
 <img src="picture/function_interface.jpg" alt="Functional architecture" width="800" height="200">
 4. Define the systemmodel in the CS area
 <img src="picture/cs_area.jpg" alt="Cybersecurity area" width="400" height="400">
+5. Add the reference to your functional architecture to be able to track the progress (Versions)
+6. To the cybersecurity area you add also different catalogs for input
+
+
 
